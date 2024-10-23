@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-dify_api_key = ""
+dify_api_key = st.secrets["dify_api_key"]
 url = "https://api.dify.ai/v1/chat-messages"
 
 st.set_page_config(page_title="Cipher • AI Chatbot")
