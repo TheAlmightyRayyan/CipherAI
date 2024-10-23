@@ -64,8 +64,9 @@ This chatbot uses the [Dify API](https://dify.ai/docs) for generating responses.
 
 To install all the dependencies, run:
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
+```
 
-## Credit
-- Made by rayyan
+# Credit   
+- made by rayyan
 
